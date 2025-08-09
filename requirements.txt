@@ -1,0 +1,9 @@
+azure_storage-blob
+boto3
+Flask
+openai
+pymongo
+python-dotenv
+tenacity
+tiktoken
+Flask_Cors
